@@ -1,7 +1,7 @@
-ACTIV PACKAGE
+Package: Lewin/Activ
 
 1. Git clone the package
-2. Run ```php artisan serve1```
+2. Run ```php artisan serve```
 3. Users list is on the main page
 4. There is a form on the top to find a specific user
 5. At the bottom there is some pagination
