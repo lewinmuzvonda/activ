@@ -1,3 +1,13 @@
+ACTIV PACKAGE
+
+1. Git clone the package
+2. Run ```php artisan serve1```
+3. Users list is on the main page
+4. There is a form on the top to find a specific user
+5. At the bottom there is some pagination
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
