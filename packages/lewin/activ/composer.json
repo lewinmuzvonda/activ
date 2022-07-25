@@ -1,0 +1,20 @@
+{
+    "name": "lewin/activ",
+    "description": "Activ Users",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lewin\\Activ\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lewin Muzvonda",
+            "email": "muzvondalewin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4.0"
+    }
+}
